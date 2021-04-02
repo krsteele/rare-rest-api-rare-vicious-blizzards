@@ -38,7 +38,7 @@ Rare is a full-stack publishing platform project. It was built in two one-week s
 
 [Charlie Butterworth](https://github.com/CharlieButterworth)  
 
-[Suganya Prakash](https://github.com/Suganya-dev)  
+[Suganya chandraraj](https://github.com/Suganya-dev)  
 
 [Silas Lowe](https://github.com/silaslowe)
 
